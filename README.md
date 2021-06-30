@@ -8,6 +8,6 @@ Environment Setup
 
 1 ) Install pandas and requests modules
 
-pip install pandas
+    pip install pandas
 
-pip install requests
+    pip install requests
